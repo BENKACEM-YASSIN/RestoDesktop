@@ -1,0 +1,529 @@
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\source\repos\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\bilal.DESKTOP-H1P4BFC\Desktop\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.1)\Projet\Projet\obj\Debug\Projet.client.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.5)\Projet\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.6)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet (1.7)\Projet (1.7)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\boyco\Desktop\Projet (1.7)\Projet (1.7)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet (1.7)\Projet (1.7)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\Projet (1.8)\Projet (1.8)\Projet\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\mscorlib.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\normidna.nlp
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\normnfc.nlp
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\normnfd.nlp
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\normnfkc.nlp
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\bin\Debug\normnfkd.nlp
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\boyco\Desktop\Projet (1.9)\Projet (1.9)\Projet (1.8)\Projet\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.1\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\Projet.exe.config
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\MetroFramework.dll
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\mscorlib.dll
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\normidna.nlp
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\normnfc.nlp
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\normnfd.nlp
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\normnfkc.nlp
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\bin\Debug\normnfkd.nlp
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Home.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Login.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\boyco\Desktop\Projet - V2.2\Projet - V2.2\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.3\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.4\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\Projet.exe.config
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\MetroFramework.dll
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\mscorlib.dll
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\normidna.nlp
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\normnfc.nlp
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\normnfd.nlp
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\normnfkc.nlp
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\bin\Debug\normnfkd.nlp
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Home.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Login.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\boyco\Desktop\Projet - V2.4\Projet - V2.4\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Accueil.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Projet.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.5.1\Projet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\Projet.exe.config
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\Projet.exe
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\Projet.pdb
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\MetroFramework.dll
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\mscorlib.dll
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\normidna.nlp
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\normnfc.nlp
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\normnfd.nlp
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\normnfkc.nlp
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\bin\Debug\normnfkd.nlp
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Home.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Login.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PrintAliment.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PrintCommande.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PrintUtilisateur.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PageImprimerCommande.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PageImprimerUser.resources
+C:\Users\boyco\Desktop\Projet - V2.5.2\Projet - V2.5.2\Projet\obj\Debug\Projet.PageImprimeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PageImprimerCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PageImprimerUser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PageImprimeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PrintAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PrintCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.PrintUtilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6\Projet\obj\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PageImprimerCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PageImprimerUser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PageImprimeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PrintAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PrintCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.PrintUtilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\FlashControlV71.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\stdole.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\visual studio\Projet - V2.6.1\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\Projet.pdb
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\MetroFramework.Design.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\MetroFramework.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Aliments.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Commande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PageImprimerCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PageImprimerUser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Home.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PageImprimeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Menu.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PrintAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PrintCommande.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.PrintUtilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.typeuser.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.utilisateur.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.inscription.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Login.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Properties.main.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.TypeAliment.resources
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.exe.manifest
+C:\Users\ProBook 650 G1\Desktop\work\projects\Projet - V2.6.2\Projet\obj\Debug\Projet.application
+C:\Users\ProBook 650 G1\Desktop\work\Projet - V2.6.3\Projet\bin\Debug\Projet.exe.config
+C:\Users\ProBook 650 G1\Desktop\work\Projet - V2.6.3\Projet\obj\Debug\Projet.exe
+C:\Users\ProBook 650 G1\Desktop\work\Projet - V2.6.3\Projet\obj\Debug\Projet.pdb
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.csproj.SuggestedBindingRedirects.cache
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Aliments.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Commande.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PageImprimerCommande.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PageImprimerUser.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Home.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PageImprimeAliment.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Menu.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PrintAliment.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PrintCommande.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.PrintUtilisateur.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.typeuser.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.utilisateur.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.inscription.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Login.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.Properties.main.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.TypeAliment.resources
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.exe
+Y:\TDI\project\Projet - V2.6.3\Projet\obj\Debug\Projet.pdb

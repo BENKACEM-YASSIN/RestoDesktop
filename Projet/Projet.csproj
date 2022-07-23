@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D80E247-0AC2-479E-8902-84D6B5999062}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projet</RootNamespace>
+    <AssemblyName>Projet</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6B15171318EC291230C27D234CB70187FA9C6012</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Projet_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Bunifu Technologies\Bunifu Framework Manager\bin\updates\Bunifu UI 1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <HintPath>..\..\..\..\..\..\..\..\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="alimentrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>alimentrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Aliments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aliments.Designer.cs">
+      <DependentUpon>Aliments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commande.Designer.cs">
+      <DependentUpon>Commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="commanedrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>commanedrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PageImprimerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PageImprimerCommande.Designer.cs">
+      <DependentUpon>PageImprimerCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PageImprimerUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PageImprimerUser.Designer.cs">
+      <DependentUpon>PageImprimerUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projetKBv2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projetKBv2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PageImprimeAliment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PageImprimeAliment.Designer.cs">
+      <DependentUpon>PageImprimeAliment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintAliment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintAliment.Designer.cs">
+      <DependentUpon>PrintAliment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCommande.Designer.cs">
+      <DependentUpon>PrintCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintUtilisateur.Designer.cs">
+      <DependentUpon>PrintUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="typeuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="typeuser.Designer.cs">
+      <DependentUpon>typeuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>userrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="utilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilisateur.Designer.cs">
+      <DependentUpon>utilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connexion.cs" />
+    <Compile Include="inscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inscription.Designer.cs">
+      <DependentUpon>inscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeAliment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeAliment.Designer.cs">
+      <DependentUpon>TypeAliment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="utilisateursrpt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>utilisateursrpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="alimentrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>alimentrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aliments.resx">
+      <DependentUpon>Aliments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commande.resx">
+      <DependentUpon>Commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commanedrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>commanedrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PageImprimerCommande.resx">
+      <DependentUpon>PageImprimerCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PageImprimerUser.resx">
+      <DependentUpon>PageImprimerUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PageImprimeAliment.resx">
+      <DependentUpon>PageImprimeAliment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintAliment.resx">
+      <DependentUpon>PrintAliment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCommande.resx">
+      <DependentUpon>PrintCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintUtilisateur.resx">
+      <DependentUpon>PrintUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="typeuser.resx">
+      <DependentUpon>typeuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>userrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilisateur.resx">
+      <DependentUpon>utilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inscription.resx">
+      <DependentUpon>inscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TypeAliment.resx">
+      <DependentUpon>TypeAliment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="utilisateursrpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>utilisateursrpt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="projetKBv2DataSet.xsc">
+      <DependentUpon>projetKBv2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="projetKBv2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projetKBv2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projetKBv2DataSet.xss">
+      <DependentUpon>projetKBv2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Projet_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+    <None Include="Resources\cloud-computing.png" />
+    <None Include="Resources\003-close-button.png" />
+    <None Include="Resources\002-no-entry-sign.png" />
+    <None Include="Resources\001-pencil.png" />
+    <None Include="Resources\004-bold-check-button.png" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\001-reunion2.png" />
+    <None Include="Resources\food.png" />
+    <None Include="Resources\menu %281%29.png" />
+    <None Include="Resources\store %281%29.png" />
+    <None Include="Resources\001-reunion1.png" />
+    <None Include="Resources\002-food.png" />
+    <None Include="Resources\003-restaurant1.png" />
+    <None Include="Resources\003-restaurant.png" />
+    <None Include="Resources\cooker.png" />
+    <None Include="Resources\salt.png" />
+    <None Include="Resources\power-button-off.png" />
+    <None Include="Resources\boss.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\001-reunion.png" />
+    <None Include="Resources\002-restaurant1.png" />
+    <None Include="Resources\002-restaurant.png" />
+    <None Include="Resources\003-food.png" />
+    <None Include="Resources\store.png" />
+    <None Include="Resources\team %282%29.png" />
+    <None Include="Resources\team %281%29.png" />
+    <None Include="Resources\dinner.png" />
+    <None Include="Resources\team.png" />
+    <None Include="Resources\list.png" />
+    <None Include="Resources\wine-menu.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\magnifying-glass.png" />
+    <None Include="Resources\recipe %283%29.png" />
+    <None Include="Resources\recipe %282%29.png" />
+    <None Include="Resources\recipe.png" />
+    <None Include="Resources\restaurant %281%29.png" />
+    <None Include="Resources\restaurant.png" />
+    <None Include="Resources\001-remove.png" />
+    <None Include="Resources\002-delete-button.png" />
+    <None Include="Resources\003-cancel.png" />
+    <None Include="Resources\002-signs.png" />
+    <None Include="Resources\005-trash.png" />
+    <None Include="Resources\001-edit.png" />
+    <None Include="Resources\003-checked.png" />
+    <None Include="Resources\004-plus-black-symbol.png" />
+    <None Include="Resources\cooking %282%29.png" />
+    <None Include="Resources\cooking %281%29.png" />
+    <None Include="Resources\cooking.png" />
+    <None Include="bin\Debug\icones\Accueil.png" />
+    <Content Include="MetroFramework.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\imagealiment\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
